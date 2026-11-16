@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.paragraph {
+    background-color: rgb(242, 152, 209);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#first-id{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.paragraph,
+.larger {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: rgb(131, 230, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
